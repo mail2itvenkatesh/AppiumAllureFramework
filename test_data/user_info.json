@@ -1,0 +1,424 @@
+{
+	"brand_name_user": {
+		"registered": {
+			"mfa_disabled": [{
+					"self": {
+						"username": "ManicBasha005",
+						"password": "Tester@123",
+						"first_name": "Manic",
+						"last_name": "Basha",
+						"dob": "09/02/1988",
+						"gender": "Male",
+						"contact_no": "+911234567890",
+						"comm_pref": "Text",
+						"email_id": "abc@sample.com",
+						"address": {
+							"street": "12600 Hill Country Blvd",
+							"city": "Austin",
+							"apt_suite_bldg": "Suite 275",
+							"state": "TX",
+							"zip_code": "78738"
+						},
+						"photo_id": {
+							"id_type": "Driver's License",
+							"state": "TX",
+							"id_no": "A31195855"
+						},
+						"new_pwd": "Tester@123",
+						"insurance_card_info": [{
+								"insurance": {
+									"org_name": "HMSA",
+									"bin": "004336",
+									"card_holder_name": "Manic Basha",
+									"grp": "RX3982",
+									"id": "XLLA000012334456",
+									"pcn": "MEDDADV"
+								}
+							},
+							{
+								"insurance": {
+									"org_name": "Medicare",
+									"bin": "null",
+									"card_holder_name": "Manic Basha",
+									"grp": "null",
+									"id": "1EG4-TE5-MK72",
+									"pcn": "null"
+								}
+							},
+							{
+								"insurance": {
+									"org_name": "Cigna_PPO",
+									"bin": "610011",
+									"card_holder_name": "Manic Basha",
+									"grp": "999999999999",
+									"id": "99999999999",
+									"pcn": "HAPAHL"
+								}
+							}
+						],
+
+						"check_in_health_history_self_dependent_and_family": [{
+								"High Cholesterol": {
+									"his_self_dep_checkbox": [0],
+									"sub_checkbox_option": [0]
+								}
+							},
+							{
+								"High Blood Pressure": {
+									"his_self_dep_checkbox": [0, 1],
+									"sub_checkbox_option": [0, 1]
+								}
+							},
+							{
+								"Diabetes": {
+									"his_self_dep_checkbox": [1],
+									"sub_checkbox_option": []
+								}
+							},
+							{
+								"Insomnia": {
+									"his_self_dep_checkbox": [0],
+									"sub_checkbox_option": [0]
+								}
+							},
+							{
+								"Heart/Coronary Artery Disease": {
+									"his_self_dep_checkbox": [0],
+									"sub_checkbox_option": [1]
+								}
+							}
+						],
+						"medication_history": [{
+								"history": {
+									"medication_otc_drug_supplement": "Oxycodone",
+									"strength": "10 mg",
+									"dose": "2 pill",
+									"frequency": "Weekly",
+									"prescription_date": "12/01/2014",
+									"start_date": "12/01/2014",
+									"end_date": "12/01/2019",
+									"taking_status": "stop",
+									"notes": "I took this for pain like body pain, headache, etc"
+								}
+							},
+							{
+								"history": {
+									"medication_otc_drug_supplement": "Lisinopril",
+									"strength": "2.5 mg",
+									"dose": "1 pill",
+									"frequency": "Daily",
+									"prescription_date": "12/01/2014",
+									"start_date": "12/01/2014",
+									"end_date": "not_mentioned",
+									"taking_status": "current",
+									"notes": "I am taking this for High Blood Pressure"
+								}
+							},
+							{
+								"history": {
+									"medication_otc_drug_supplement": "Lipitor",
+									"strength": "80 mg",
+									"dose": "1 pill",
+									"frequency": "Daily",
+									"prescription_date": "12/01/2019",
+									"start_date": "not_mentioned",
+									"end_date": "not_mentioned",
+									"taking_status": "current",
+									"notes": "I am taking this for High Cholesterol level"
+								}
+							}
+						],
+						"dependent_medication_history": [{
+								"history": {
+									"medication_otc_drug_supplement": "Atorvastatin",
+									"strength": "10 mg",
+									"dose": "1 pill",
+									"frequency": "daily",
+									"prescription_date": "12/01/2019",
+									"start_date": "12/01/2019",
+									"end_date": "12/01/2020",
+									"taking_status": "stop",
+									"notes": "I took this to remove bad cholesterol, triglycerides, increase good hdl cholesterol"
+								}
+							},
+							{
+								"history": {
+									"medication_otc_drug_supplement": "Metformin",
+									"strength": "1000 mg",
+									"dose": "1 pill",
+									"frequency": "daily",
+									"prescription_date": "12/01/2020",
+									"start_date": "12/01/2020",
+									"end_date": "not_mentioned",
+									"taking_status": "current",
+									"notes": "I took this to remove bad cholesterol, triglycerides, increase good hdl cholesterol"
+								}
+							},
+
+							{
+								"history": {
+									"medication_otc_drug_supplement": "Oxycodone",
+									"strength": "10 mg",
+									"dose": "2 pill",
+									"frequency": "Weekly",
+									"prescription_date": "12/01/2014",
+									"start_date": "12/01/2014",
+									"end_date": "12/01/2019",
+									"taking_status": "stop",
+									"notes": "I took this for pain like body pain, headache, etc"
+								}
+							}
+						],
+						"allergy_history": [{
+								"history": {
+									"allergy_info": "Dust",
+									"reactions": "Asthma, runny nose, sore throat",
+									"notes": "Dust Allergy"
+								}
+							},
+							{
+								"history": {
+									"allergy_info": "Insect",
+									"reactions": "skin infection, skin itching",
+									"notes": "Insect Allergy"
+								}
+							},
+							{
+								"history": {
+									"allergy_info": "Drug",
+									"reactions": "Drugs like Pencillin causes allergy",
+									"notes": "Drug Allergy"
+								}
+							}
+						],
+						"dependent_allergy_history": [{
+								"history": {
+									"allergy_info": "Pollen Allergy",
+									"reactions": "Sneezing, Watery eyes, Itchy throat and eyes",
+									"notes": "Dust Allergy"
+								}
+							},
+							{
+								"history": {
+									"allergy_info": "Insect Sting",
+									"reactions": "swelling at the sting site, Itching or hives all over the body, Cough, chest tightness, wheezing or shortness of breath",
+									"notes": "Insect Sting Allergy"
+								}
+							}
+						],
+						"observations_history": [{
+								"history": {
+									"test_name": "Hemoglobin A1c/Hemoglobin.total In Blood",
+									"result_value": "4.7",
+									"units": "%",
+									"test_date": "12/01/2019",
+									"result_date": "12/03/2019",
+									"notes": "Results are Normal"
+								}
+							},
+							{
+								"history": {
+									"test_name": "C-Reactive protein",
+									"result_value": "0.44",
+									"units": "mg/L",
+									"test_date": "01/15/2019",
+									"result_date": "01/16/2019",
+									"notes": "Results are Normal"
+								}
+							},
+							{
+								"history": {
+									"test_name": "Triiodothyronine (T3) Free",
+									"result_value": "4.7",
+									"units": "pg/ml",
+									"test_date": "01/15/2019",
+									"result_date": "01/16/2019",
+									"notes": "Results are Abormal"
+								}
+							},
+							{
+								"history": {
+									"test_name": "Platelets",
+									"result_value": "200000",
+									"units": "mcL",
+									"test_date": "01/15/2019",
+									"result_date": "01/16/2019",
+									"notes": "Results are normal"
+								}
+							}
+						],
+						"dependent_observations_history": [{
+								"history": {
+									"test_name": "Lipid panel with direct LDL",
+									"result_value": "170",
+									"units": "mg/dL",
+									"test_date": "12/01/2020",
+									"result_date": "12/01/2020",
+									"notes": "High LDL level"
+								}
+							},
+							{
+								"history": {
+									"test_name": "EKG Report",
+									"result_value": "150",
+									"units": "ms",
+									"test_date": "12/01/2020",
+									"result_date": "12/01/2020",
+									"notes": "ECG for heart health check"
+								}
+							}
+						]
+					}
+				},
+				{
+					"dependent": [{
+							"first_name": "Sara",
+							"last_name": "Clinton",
+							"dob": "09/03/1990",
+							"gender": "Female",
+							"relation": "Spouse",
+							"type": "Dependent"
+						},
+						{
+							"first_name": "Alice",
+							"last_name": "Sarah",
+							"dob": "06/07/2004",
+							"gender": "Female",
+							"relation": "Daughter",
+							"type": "Dependent"
+						},
+						{
+							"first_name": "Kevin",
+							"last_name": "Pattinson",
+							"dob": "06/07/2007",
+							"gender": "Male",
+							"relation": "Son",
+							"type": "Dependent"
+						}
+					]
+				}
+			],
+
+			"mfa_enabled": [{
+					"self": {
+						"username": "XXXXXX",
+						"password": "Tester@123",
+						"first_name": "XX",
+						"last_name": "FFF",
+						"dob": "09/09/1988",
+						"gender": "Male",
+						"contact_no": "3456789123",
+						"comm_pref": "Text",
+						"email_id": "sample@l.com",
+						"address": {
+							"street": "",
+							"city": "",
+							"apt_suite_bldg": "",
+							"state": "",
+							"zip_code": ""
+						},
+						"photo_id": {
+							"id_type": "",
+							"state": "",
+							"id_no": ""
+						},
+						"new_pwd": "",
+						"insurance_card_info": [{
+							"insurance": {
+								"org_name": "Cigna_PPO",
+								"bin": "610011",
+								"card_holder_name": "XX FF",
+								"grp": "999999999999",
+								"id": "99999999999",
+								"pcn": "HAPAHL"
+							}
+						}]
+					}
+				},
+				{
+					"dependent": [{
+							"first_name": "Sara",
+							"last_name": "Clinton",
+							"dob": "09/03/1990",
+							"gender": "Female",
+							"relation": "Spouse",
+							"type": "Dependent"
+						},
+						{
+							"first_name": "Alice",
+							"last_name": "Sarah",
+							"dob": "06/07/2004",
+							"gender": "Female",
+							"relation": "Daughter",
+							"type": "Dependent"
+						}
+					]
+				}
+			]
+		},
+
+		"new_user_register": [{
+				"self": {
+					"username": "AutoRegUser",
+					"first_name": "Automation",
+					"last_name": "Register",
+					"dob": "09/09/1988",
+					"gender": "Male",
+					"contact_no": "+919894715549",
+					"email_id": "sample@hl.com",
+					"comm_pref": "Text",
+					"password": "Tester@123",
+					"confirm_password": "Tester@123",
+					"address": {
+						"street": "12600 Hill Country Blvd",
+						"city": "Austin",
+						"apt_suite_bldg": "Suite 275",
+						"state": "TX",
+						"zip_code": "78738"
+					},
+					"photo_id": {
+						"id_type": "Driver's License",
+						"state": "TX",
+						"id_no": "A31195855"
+					}
+				}
+			},
+			{
+				"dependent": []
+			}
+		],
+
+		"guest": [{
+			"self": {
+				"first_name": "Guest",
+				"last_name": "Automation",
+				"dob": "09/08/1983",
+				"gender": "Male",
+				"email_id": "sample@l.com",
+				"contact_no": "+919894715549",
+				"comm_pref": "Text",
+				"address": {
+					"street": "12600 Hill Country Blvd",
+					"city": "Austin",
+					"apt_suite_bldg": "Suite 275",
+					"state": "TX",
+					"zip_code": "78738"
+				},
+				"photo_id": {
+					"id_type": "Driver's License",
+					"state": "TX",
+					"id_no": "A31195855"
+				},
+				"username": "AutomationGuest",
+				"password": "Tester@123"
+			},
+			"dependent": {
+				"first_name": "Dependent",
+				"last_name": "Automation",
+				"dob": "09/08/1987",
+				"gender": "Female"
+			}
+		}]
+	}
+
+}
