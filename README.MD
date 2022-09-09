@@ -66,6 +66,12 @@ py.cleanup -p && py.test -v tests/cmdline_workflow/test_01_registered_scenario_w
 3. so to avoid the above issue, class name should starts with RegistrationPageTests.
 4. Also test filename should starts with registered_welcome_screen_tests.py # Not needed eventhough if we put like this sorting not works
 
+### Appium Device Farm(Have to Implement)
+
+https://github.com/AppiumTestDistribution/appium-device-farm
+
+https://github.com/sudharsan-selvaraj/appium-dashboard-plugin
+
 Boilerplate:
 ============
 https://github.com/karimelkomy/Python-Test-Automation-Framework
